@@ -1,3 +1,6 @@
+👩‍💻 Author
+Made with by Prachi
+
 # 🍴 Recipe Helper App
 
 This is a simple **React app** where you can search recipes by ingredients and view cooking instructions.  
