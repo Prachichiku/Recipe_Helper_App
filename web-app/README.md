@@ -19,7 +19,7 @@ https://www.themealdb.com/api/json/v1/1/filter.php?i={ingredient}
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/Prachichiku/recepie_Helper_APP.git
+   git clone https://github.com/Prachichiku/Recipe_Helper_APP.git
 
 # React + Vite
 
